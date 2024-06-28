@@ -1,0 +1,17 @@
+Added Pin To Net: NetName=+3,3V Pin=U6-15
+Added Room: Name=ADC
+Added Room: Name=BUS1
+Added Room: Name=CAN1
+Added Room: Name=CAN2
+Added Room: Name=DI1
+Added Room: Name=DI2
+Added Room: Name=DI3
+Added Room: Name=DI4
+Added Room: Name=DO1
+Added Room: Name=DO2
+Added Room: Name=DO3
+Added Room: Name=DO4
+Added Room: Name=DO5
+Added Room: Name=Flash
+Added Room: Name=Main
+Added Room: Name=MCU
