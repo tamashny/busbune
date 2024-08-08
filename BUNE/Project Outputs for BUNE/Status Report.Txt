@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BUNE.PrjPcb]
+   Generated File[BUNE.TXT]
+   Generated File[BUNE.LDP]
+   Generated File[BUNE.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:44:32 On 08.08.2024

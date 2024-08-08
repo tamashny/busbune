@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [BUS.PrjPcb]
+   Generated File[BUS.TXT]
+   Generated File[BUS.LDP]
+   Generated File[BUS.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 14:45:50 On 08.08.2024

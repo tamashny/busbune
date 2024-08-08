@@ -1,0 +1,16 @@
+Added Component: Designator=C53(Bar Cap 8 mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "ChipDip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.chipdip.ru/product0/8001968680"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Matsushita"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "EEU-FS1K121LB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Capacitor"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C53-1
+Added Pin To Net: NetName=+5V Pin=C53-2
+Added Member To Class: ClassName=Main Member=Component C53 120uF
+Added Room: Name=ADC_1
+Added Room: Name=ADC_2
+Added Room: Name=ADC_3
+Added Room: Name=ADC_4
+Added Room: Name=Bus
+Added Room: Name=Main
+Added Room: Name=MCU
